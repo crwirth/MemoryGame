@@ -9,6 +9,7 @@ Some of the features of this game include:
 - A moves counter that keeps track of the amount of tries it takes for a player to match a card
 
 ![screenshot of application]
+
 (https://github.com/crwirth/MemoryGame/blob/master/Screen%20Shot%202020-02-10%20at%2011.44.56%20AM.png)
 
 You can play the game here:
