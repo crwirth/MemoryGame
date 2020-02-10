@@ -8,7 +8,8 @@ Some of the features of this game include:
 - A timer that keeps track of the length of a single game
 - A moves counter that keeps track of the amount of tries it takes for a player to match a card
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4hiva7r"  ><a href="//imgur.com/a/4hiva7r"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![screenshot of application]
+(https://github.com/crwirth/MemoryGame/blob/master/Screen%20Shot%202020-02-10%20at%2011.44.56%20AM.png)
 
 You can play the game here:
 
